@@ -30,7 +30,7 @@ The system is built around an ESP32, integrating several key sensors and actuato
 
 ### Wiring Diagram
 
-The image above illustrates the connections used in the project.
+
 ![Wiring Diagram for Gas Monitoring System](docs/diagram.png)
 -----
 
